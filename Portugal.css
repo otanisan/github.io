@@ -35,10 +35,12 @@ header {
 }
 
 .top-wrapper {
-    background-image: url('editedAdobeStock_229619626.png');
-    background-size: cover;
     height: 892px;
 }
+
+.top-image {
+    width: 100%;
+}    
 
 .intro-wrapper {
     text-align: center;
