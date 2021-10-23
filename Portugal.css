@@ -35,6 +35,7 @@ header {
 }
 
 .top-wrapper {
+    background-size: cover;
     height: 892px;
 }
 
